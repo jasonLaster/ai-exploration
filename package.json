@@ -11,8 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "@ai-sdk/openai": "^0.0.36",
+    "@replayio/protocol": "^0.76.0",
     "ai": "^3.2.22",
     "dotenv": "^16.4.5",
+    "ws": "^8.18.0",
     "zod": "^3.23.8"
   },
   "devDependencies": {
